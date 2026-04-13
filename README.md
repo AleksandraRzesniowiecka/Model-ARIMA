@@ -29,6 +29,6 @@ Skrypt został napisany w języku R. Do jego prawidłowego działania wymagane j
    install.packages(c("fpp2", "forecast", "urca", "lmtest", "gridExtra", "xts"))
 4. Uruchom plik ze skryptem głównym
 ## Struktura plików
-**skrypt_arima.R** – kod źródłowy przeprowadzający proces estymacji i testowania
-**US_inflation_rates.csv** - historyczne dane wejściowe
-**README.md** - dokumentacja
+`skrypt_arima.R` – kod źródłowy przeprowadzający proces estymacji i testowania
+`US_inflation_rates.csv` - historyczne dane wejściowe
+`README.md` - dokumentacja
